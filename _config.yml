@@ -1,7 +1,7 @@
 name: matthewhamer.co.uk
 favicon: null
-layout_spectrum: 0.4436663428787142
-typography_spectrum: 0.115026451414451
+layout_spectrum: 0.49398
+typography_spectrum: 0.9296
 title: 'Matthew Hamer | LSM Operator based in Manchester'
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#3B407C'
     - '#547AB1'
     - '#CEAFC0'
-  brandStrength: 0.8979144797194749
-  lightness: 0.42166861263103783
-  saturation: 0.2686921884305775
-  rhythmicContrast: 0.926797102438286
+  brandStrength: 0.875
+  lightness: 0.5625
+  saturation: 0.6875
+  rhythmicContrast: 0.5
 purpose: []
