@@ -1,0 +1,28 @@
+name: matthewhamer.co.uk
+favicon: null
+layout_spectrum: 0.4436663428787142
+typography_spectrum: 0.115026451414451
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.8979144797194749
+  lightness: 0.42166861263103783
+  saturation: 0.2686921884305775
+  rhythmicContrast: 0.926797102438286
+purpose: []
