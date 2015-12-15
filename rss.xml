@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Matthew Hamer | LSM Operator based in Manchester]]></title>
+        <description><![CDATA[Matthew Hamer | LSM Operator based in Manchester]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 15 Dec 2015 14:35:31 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[EVS LSM Operator]]></title>
+            <description><![CDATA[<article><h1>EVS LSM Operator</h1><p>Matthew Hamer is an LSM operator for BBC Sport, Sky Sports HD and SiS, working on sporting events and live/pre-recorded studio shows.  Key skills include replays, creating analysis, teasers, closers, turning around interviews, highlights/commentary edits and more traditional VT roles of playing out packages within shows.  Studio credits include: Wimbledon, Football, Formula 1, Rugby, Horse Racing, Cricket, Diving, Swimming, Sailing, Rowing.</p></article>]]></description>
+            <link>undefinedevs-lsm-operator/index.html</link>
+            <guid isPermaLink="false">d66cf544-15ae-4f7b-8648-e2dee3dc196d</guid>
+            <pubDate>Tue, 15 Dec 2015 14:35:19 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
